@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#fix-logo{
+    color:#3F51B5;
+    font-size: 30px;
+}
+
