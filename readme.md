@@ -14,7 +14,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository: 📂
     ```bash 
-    git clone https://github.com/Abhimanyupayasi/Automated-System.git 
+    git clone https://github.com/bjmanish/Auto-System-Doctor-Patient.git 
     ```
 
 2. Rename the `.example.env` file to `.env` and fill in your own credentials: 🔐Edit the `.env` file and replace the placeholder values with your actual data.
